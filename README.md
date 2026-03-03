@@ -1,2 +1,4 @@
-#Directori AULA LLIURE PRO2 2025-26 Q2
+# AULA LLIURE PRO2  
+## Curs 2025–2026 · Q2
 
+Repositori del directori que anirem treballant cada sessió.
